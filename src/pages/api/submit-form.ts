@@ -1,7 +1,10 @@
 // pages/api/submit-form.ts
 import type { NextApiRequest, NextApiResponse } from 'next';
 import { JWT } from 'google-auth-library';
-import keySheets from '../../api/keySheets.json';  // Atualize este caminho
+import dotenv from 'dotenv';
+
+// Carregar variáveis de ambiente do arquivo .env
+dotenv.config();
 
 export default async function handler(req: NextApiRequest, res: NextApiResponse) {
   if (req.method !== 'POST') {
@@ -13,16 +16,16 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse)
 
     // Criar cliente JWT com as credenciais da conta de serviço
     const client = new JWT({
-      email: keySheets.client_email,
-      key: keySheets.private_key,
+      email: process.env.GOOGLE_SHEETS_CLIENT_EMAIL, // Usando dotenv
+      key: process.env.GOOGLE_SHEETS_PRIVATE_KEY,   // Usando dotenv
       scopes: ['https://www.googleapis.com/auth/spreadsheets'],
     });
 
     // Obter token de acesso
     const token = await client.getAccessToken();
 
-    const SHEET_ID = '1AEZSIcGdRtGvNGdMRkjIVZZOBpyGANL26gTsRGy4JWU';
-    const SHEET_NAME = 'database-2025';
+    const SHEET_ID = process.env.GOOGLE_SHEETS_SHEET_ID; // Usando dotenv
+    const SHEET_NAME = process.env.GOOGLE_SHEETS_SHEET_NAME; // Usando dotenv
 
     const values = [
       [

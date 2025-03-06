@@ -7,6 +7,7 @@ import ContactForm from '../../components/ContactForm'
 import { IoBedOutline } from 'react-icons/io5'
 import { FaBath } from 'react-icons/fa'
 import propertiesData from '../../api/properties-details.json'
+import SEO from '@/components/SEO'
 
 interface SchedulePopupProps {
   property: {
@@ -232,6 +233,12 @@ export default function PropertyDetails() {
 
   return (
     <div className="min-h-screen bg-zinc-900">
+      <SEO 
+        title={`${property?.title} | Prime Imobiliária`}
+        description={`${property?.title} - ${property?.location}. ${property?.description?.slice(0, 150)}...`}
+        canonical={`https://primeimoveisslz.com.br/imoveis/${property?.id}`}
+        ogImage={property?.images[0]}
+      />
       <Header />
       
       <main className="container mx-auto px-4 pt-24 pb-16">

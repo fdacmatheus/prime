@@ -4,6 +4,7 @@ import Footer from '../components/Footer'
 import ContactForm from '../components/ContactForm'
 import Link from 'next/link'
 import propertiesData from '../api/properties-list.json'
+import SEO from '@/components/SEO'
 
 export default function Home() {
   // Adicionar estado para animação de scroll
@@ -30,6 +31,11 @@ export default function Home() {
 
   return (
     <div className="min-h-screen bg-zinc-900 transition-colors">
+      <SEO 
+        title="Prime Imobiliária - Imóveis em São Luís do Maranhão"
+        description="Sua parceira ideal na busca pelo imóvel dos seus sonhos em São Luís - MA. Casas, apartamentos e terrenos à venda e aluguel."
+        canonical="https://primeimoveisslz.com.br"
+      />
       <Header />
       
       {/* Seção hero com imagem de fundo */}

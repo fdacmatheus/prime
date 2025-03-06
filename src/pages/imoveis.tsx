@@ -6,6 +6,7 @@ import { FaBath, FaCar } from 'react-icons/fa'
 import { TbSquareRotated } from 'react-icons/tb'
 import { MdLocationOn } from 'react-icons/md'
 import propertiesData from '../api/properties-list.json'
+import SEO from '@/components/SEO'
 
 export default function Imoveis() {
   const [viewMode, setViewMode] = useState<'grid' | 'list'>('grid')
@@ -82,6 +83,11 @@ export default function Imoveis() {
 
   return (
     <div className="min-h-screen bg-zinc-900">
+      <SEO 
+        title="Imóveis à Venda e Aluguel em São Luís - MA | Prime Imobiliária"
+        description="Encontre casas, apartamentos e terrenos à venda ou aluguel em São Luís. Os melhores imóveis com a Prime Imobiliária."
+        canonical="https://primeimoveisslz.com.br/imoveis"
+      />
       <Header />
       
       <main className="container mx-auto px-4 pt-24 pb-8">

@@ -1,6 +1,10 @@
 import Link from 'next/link'
+import propertiesList from '@/api/properties-list.json'
 
 export default function Footer() {
+  // Pegar os últimos 4 imóveis
+  const latestProperties = propertiesList.properties.slice(-4)
+
   return (
     <>
       <footer className="bg-zinc-950 text-zinc-400">
@@ -62,28 +66,15 @@ export default function Footer() {
             </div>
 
             <div>
-              <h3 className="text-amber-400 font-bold mb-4">Últimos Imóveis</h3>
+              <h3 className="text-amber-400 font-bold mb-4">Nossos Imóveis</h3>
               <ul className="space-y-2">
-                <li>
-                  <Link href="#" className="hover:text-amber-400">
-                    Apartamento Calhau
-                  </Link>
-                </li>
-                <li>
-                  <Link href="#" className="hover:text-amber-400">
-                    Casa Olho D'água
-                  </Link>
-                </li>
-                <li>
-                  <Link href="#" className="hover:text-amber-400">
-                    Cobertura Ponta D'areia
-                  </Link>
-                </li>
-                <li>
-                  <Link href="#" className="hover:text-amber-400">
-                    Sala Comercial Renascença
-                  </Link>
-                </li>
+                {latestProperties.map((property) => (
+                  <li key={property.id}>
+                    <Link href={`/imoveis/${property.id}`} className="hover:text-amber-400">
+                      {property.title}
+                    </Link>
+                  </li>
+                ))}
               </ul>
             </div>
 

@@ -1,0 +1,104 @@
+{
+  "properties": [
+    {
+      "id": "condominio-alvorada-2",
+      "type": "Apartamento",
+      "category": "venda",
+      "naPlanta": false,
+      "title": "Condomínio Alvorada II",
+      "location": "São Luis",
+      "area": "40",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "price": 171000,
+      "imageUrl": "/empreendimentos/alvorada2/01.webp",
+      "images": [
+        "/empreendimentos/alvorada2/01.webp",
+        "/empreendimentos/alvorada2/02.webp",
+        "/empreendimentos/alvorada2/03.webp",
+        "/empreendimentos/alvorada2/04.webp",
+        "/empreendimentos/alvorada2/05.webp"
+      ]
+    },
+    {
+      "id": "st-stevam-4",
+      "type": "Casa",
+      "category": "venda",
+      "naPlanta": true,
+      "title": "St. Stevam 4 - Dimensão Engenharia",
+      "location": "Laranjal, São Luís",
+      "area": "50.86",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "price": 210000,
+      "imageUrl": "/empreendimentos/st-stevam4/01.webp",
+      "images": [
+        "/empreendimentos/st-stevam4/01.webp",
+        "/empreendimentos/st-stevam4/02.webp",
+        "/empreendimentos/st-stevam4/03.webp",
+        "/empreendimentos/st-stevam4/04.webp",
+        "/empreendimentos/st-stevam4/05.webp"
+      ]
+    },
+    {
+      "id": "villa-di-carpi-125",
+      "type": "Apartamento",
+      "category": "venda",
+      "naPlanta": true,
+      "title": "Villa di Carpi",
+      "location": "Estrada da Maioba, Paço do Lumiar",
+      "area": "51.88",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "price": 249522,
+      "imageUrl": "/empreendimentos/villa-di-carpi/01.webp",
+      "images": [
+        "/empreendimentos/villa-di-carpi/01.webp",
+        "/empreendimentos/villa-di-carpi/02.webp",
+        "/empreendimentos/villa-di-carpi/03.webp",
+        "/empreendimentos/villa-di-carpi/04.webp",
+        "/empreendimentos/villa-di-carpi/05.webp"
+      ]
+    },
+    {
+      "id": "condominio-beatriz",
+      "type": "Apartamento",
+      "category": "venda",
+      "naPlanta": true,
+      "title": "Condomínio Beatriz",
+      "location": "Maioba do Jenipapeiro, Paço do Lumiar",
+      "area": "45.65",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "price": 205000,
+      "imageUrl": "/empreendimentos/condominio-beatriz/01.webp",
+      "images": [
+        "/empreendimentos/condominio-beatriz/01.webp",
+        "/empreendimentos/condominio-beatriz/02.webp",
+        "/empreendimentos/condominio-beatriz/03.webp",
+        "/empreendimentos/condominio-beatriz/04.webp",
+        "/empreendimentos/condominio-beatriz/05.webp"
+      ]
+    },
+    {
+      "id": "oryon-dimensao",
+      "type": "Apartamento",
+      "category": "venda",
+      "naPlanta": true,
+      "title": "Oryon - Dimensão Engenharia",
+      "location": "Estrada da Maioba, Vila Maioba do Janipapeiro, São José de Ribamar",
+      "area": "56",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "price": 249000,
+      "imageUrl": "/empreendimentos/oryon/01.webp",
+      "images": [
+        "/empreendimentos/oryon/01.webp",
+        "/empreendimentos/oryon/02.webp",
+        "/empreendimentos/oryon/03.webp",
+        "/empreendimentos/oryon/04.webp",
+        "/empreendimentos/oryon/05.webp"
+      ]
+    }
+  ]
+} 

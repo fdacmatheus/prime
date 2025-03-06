@@ -1,0 +1,103 @@
+{
+  "properties": [
+    {
+      "id": "condominio-alvorada-2",
+      "type": "Apartamento",
+      "title": "Condomínio Alvorada II",
+      "location": "São Luis",
+      "areaTotal": "40 m²",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "price": 171000,
+      "pricePerSquareMeter": "4.275,00",
+      "images": [
+        "/empreendimentos/alvorada2/01.webp",
+        "/empreendimentos/alvorada2/02.webp",
+        "/empreendimentos/alvorada2/03.webp",
+        "/empreendimentos/alvorada2/04.webp",
+        "/empreendimentos/alvorada2/05.webp"
+      ],
+      "description": "Condomínio Alvorada II - Excelente oportunidade de investimento.\n\nApartamento com ótima localização em São Luis.\n\nProjeto moderno com acabamento de qualidade."
+    },
+    {
+      "id": "st-stevam-4",
+      "type": "Casa",
+      "title": "St. Stevam 4 - Dimensão Engenharia",
+      "location": "Laranjal, São Luís",
+      "areaTotal": "50.86 m²",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "price": 210000,
+      "pricePerSquareMeter": "4.129,37",
+      "naPlanta": true,
+      "images": [
+        "/empreendimentos/st-stevam4/01.webp",
+        "/empreendimentos/st-stevam4/02.webp",
+        "/empreendimentos/st-stevam4/03.webp",
+        "/empreendimentos/st-stevam4/04.webp",
+        "/empreendimentos/st-stevam4/05.webp"
+      ],
+      "description": "Descubra o St. Stevam 4, o mais novo empreendimento da Dimensão Engenharia, pensado para quem busca conforto, segurança e qualidade de vida. Este residencial de casas oferece tudo o que você precisa para viver bem, em um espaço projetado para o seu bem-estar e o de sua família.\n\nCom casas de 50,86m², maior que a média da categoria, cada unidade conta com:\n- Sala de estar/jantar\n- 2 quartos – sendo 1 semi-suíte\n- Hall\n- Cozinha\n- Área de serviço\n\nTudo isso em terrenos amplos de 150m² a 224m², perfeitos para quem valoriza espaço e liberdade.\n\nÁrea de lazer completa incluindo:\n- Piscinas adulto e infantil\n- Solarium\n- Salão de festas\n- Espaço fitness\n- Playground\n- Quadra gramada\n- Espaço gourmet\n\nVantagens exclusivas de lançamento:\n- ITBI grátis\n- Cartório grátis\n- Condições imperdíveis de pagamento\n\nLocalizado em uma região estratégica, o St. Stevam 4 é a escolha perfeita para quem busca um lar com qualidade e comodidade."
+    },
+    {
+      "id": "villa-di-carpi-125",
+      "type": "Apartamento",
+      "title": "Villa di Carpi",
+      "location": "Estrada da Maioba, Paço do Lumiar",
+      "areaTotal": "51.88 m²",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "price": 249522,
+      "pricePerSquareMeter": "4.810,17",
+      "naPlanta": true,
+      "images": [
+        "/empreendimentos/villa-di-carpi/01.webp",
+        "/empreendimentos/villa-di-carpi/02.webp",
+        "/empreendimentos/villa-di-carpi/03.webp",
+        "/empreendimentos/villa-di-carpi/04.webp",
+        "/empreendimentos/villa-di-carpi/05.webp"
+      ],
+      "description": "Descubra a harmonia perfeita entre conforto e praticidade no encantador apartamento Villa di Carpi, localizado no bairro Estrada da Maioba, em Paço do Lumiar. Este aconchegante imóvel oferece um espaço ideal para quem deseja viver com tranquilidade sem abrir mão das conveniências urbanas.\n\nCom dois dormitórios, incluindo opção de semi-suíte ou suíte proporciona privacidade e conforto, o apartamento é perfeito para casais ou pequenas famílias que buscam um lar acolhedor. A sala bem iluminada é o convite ideal para momentos de lazer e descanso, enquanto a cozinha e a área de serviço garantem funcionalidade para o dia a dia.\n\nO condomínio oferece segurança com portão eletrônico e segurança 24h, adicionando uma camada extra de tranquilidade para você e sua família. A presença de uma vaga de garagem traz praticidade ao seu cotidiano, permitindo que você desfrute do melhor da região sem preocupações.\n\nLazer completo incluindo:\n- Lavanderia\n- Brinquedoteca\n- Petplay\n- Academia outdoor\n- Espaço fitness\n- Salão de festas\n- Playground\n- Piscina adulto e infantil com solarium\n- Mercado interno\n- Campo de futebol\n- Coworking\n\nLocalização privilegiada:\n- Próximo ao Pátio Norte\n- Cercado por bares e restaurantes\n- Escolas nas proximidades\n- Fácil acesso a farmácias e supermercados\n- Shopping center nas redondezas\n\nRef: 125"
+    },
+    {
+      "id": "condominio-beatriz",
+      "type": "Apartamento",
+      "title": "Condomínio Beatriz",
+      "location": "Maioba do Jenipapeiro, Paço do Lumiar",
+      "areaTotal": "45.65 m²",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "price": 205000,
+      "pricePerSquareMeter": "4.490,69",
+      "naPlanta": true,
+      "images": [
+        "/empreendimentos/condominio-beatriz/01.webp",
+        "/empreendimentos/condominio-beatriz/02.webp",
+        "/empreendimentos/condominio-beatriz/03.webp",
+        "/empreendimentos/condominio-beatriz/04.webp",
+        "/empreendimentos/condominio-beatriz/05.webp"
+      ],
+      "description": "Bem-vindo ao Condomínio Beatriz, um projeto que combina conforto, praticidade e lazer para proporcionar uma experiência única de moradia em Paço do Lumiar.\n\nCom apartamentos de 45,65m² privativos, cada unidade foi cuidadosamente planejada para oferecer o máximo de aproveitamento do espaço. O projeto conta com 2 quartos confortáveis e 1 banheiro, ideal para famílias que buscam qualidade de vida e bem-estar.\n\nA varanda proporciona um espaço extra para relaxar e aproveitar momentos ao ar livre, enquanto a área de serviço facilita a organização do dia a dia.\n\nO condomínio oferece uma estrutura completa de lazer:\n- Espaço Gourmet com Churrasqueira\n- Playground para a diversão das crianças\n- Piscinas adulto e infantil\n- Salão de Festas\n- Campo Gramado para práticas esportivas\n- Quiosque para momentos de descontração\n\nLocalizado na Maioba do Jenipapeiro, o Condomínio Beatriz oferece fácil acesso a comércios, serviços e principais vias da região, tornando o dia a dia mais prático e conveniente.\n\nVenha fazer parte deste projeto que une qualidade de vida, conforto e lazer em um só lugar. Entre em contato e saiba mais sobre as condições especiais de pagamento!"
+    },
+    {
+      "id": "oryon-dimensao",
+      "type": "Apartamento",
+      "title": "Oryon - Dimensão Engenharia",
+      "location": "Estrada da Maioba, Vila Maioba do Janipapeiro, São José de Ribamar",
+      "areaTotal": "50 a 56 m²",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "price": 249000,
+      "pricePerSquareMeter": "4.446,43",
+      "naPlanta": true,
+      "images": [
+        "/empreendimentos/oryon/01.webp",
+        "/empreendimentos/oryon/02.webp",
+        "/empreendimentos/oryon/03.webp",
+        "/empreendimentos/oryon/04.webp",
+        "/empreendimentos/oryon/05.webp"
+      ],
+      "description": "Descubra o ORYON, o mais novo lançamento da renomada Construtora DIMENSÃO, estrategicamente localizado na Estrada da Maioba (MA-202). Um empreendimento que redefine o conceito de moradia moderna, combinando localização privilegiada, segurança e uma infraestrutura completa de lazer.\n\nLocalização Estratégica:\n- Próximo ao Acesso ao Parque Vitória/Altos do Turu\n- Fácil acesso à Estrada do Sitio Grande\n- Região em pleno desenvolvimento\n- Próximo a comércios e serviços essenciais\n\nApartamentos Planejados:\n- Plantas versáteis de 50 a 56 m² de área útil\n- 2 quartos, sendo 1 suíte\n- Varanda para momentos de relaxamento\n- Banheiro social\n- Cozinha integrada\n- Área de serviço funcional\n- 1 vaga de garagem\n\nDiferenciais do Projeto:\n- Empreendimento arborizado\n- Bicicletário para os moradores\n- Tomadas USB em pontos estratégicos\n- Central de gás encanado\n- Medição individualizada de água\n- Sistema de segurança completo\n\nSegurança 24 Horas:\n- Guarita com controle de acesso\n- Cerca elétrica em todo perímetro\n- Sistema CFTV com câmeras de segurança\n- Grade de proteção na piscina\n\nDuas Áreas de Lazer Completas:\n- Piscinas adulto e infantil com elevador para acessibilidade\n- Bar molhado para momentos de descontração\n- Sauna para relaxamento\n- Solarium para banhos de sol\n- Pista de cooper para atividades físicas\n- Playground infantil\n- Brinquedoteca equipada\n- Salão de festas amplo\n- Espaço gourmet com churrasqueiras\n- Bar de apoio\n- Campo gramado para práticas esportivas\n- Espaço pet para seu companheiro\n- Academia ao ar livre\n- Espaço fitness coberto\n- Quiosques para encontros\n- Praças de convivência\n- Depósitos para sua comodidade\n\nVantagens Exclusivas:\n- Participante do Programa CASA VERDE E AMARELA\n- Possibilidade de subsídio de até R$ 55.000\n- Juros reduzidos no financiamento\n- Facilitação na aprovação de crédito\n\nPrevisão de Entrega: DEZEMBRO de 2026\n\nO ORYON é mais que um empreendimento, é o ponto de referência para sua felicidade. Um projeto que une modernidade, conforto e praticidade, pensado para proporcionar momentos únicos para você e sua família.\n\nNota: Os valores e a disponibilidade de unidades podem sofrer alterações sem aviso prévio, conforme política da construtora, seja por vendas ou correções monetárias na tabela.\n\nNão perca a oportunidade de fazer parte deste projeto único. Entre em contato agora mesmo para uma consultoria completa e análise de financiamento personalizada!"
+    }
+  ]
+} 

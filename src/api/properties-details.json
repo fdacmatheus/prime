@@ -20,6 +20,29 @@
       "description": "Condomínio Alvorada II - Excelente oportunidade de investimento.\n\nApartamento com ótima localização em São Luis.\n\nProjeto moderno com acabamento de qualidade."
     },
     {
+      "id": "condominio-villa-adagio",
+      "type": "Casa",
+      "title": "Condomínio Villa Adágio",
+      "location": "Araçagy, São Luís",
+      "areaTotal": "48.9 m²",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "garagens": 2,
+      "price": 210000,
+      "pricePerSquareMeter": "4.294,48",
+      "naPlanta": true,
+      "codigo": "TR149734",
+      "terreno": "128 m²",
+      "images": [
+        "/empreendimentos/villa-adagio/01.webp",
+        "/empreendimentos/villa-adagio/02.webp",
+        "/empreendimentos/villa-adagio/03.webp",
+        "/empreendimentos/villa-adagio/04.webp",
+        "/empreendimentos/villa-adagio/05.webp"
+      ],
+      "description": "Condomínio Villa Adágio – Lançamento de Casa no Araçagy\n\nSe você está procurando por uma casa nova no Araçagy no Condomínio Villa Adágio, uma excelente opção pode ser adquirir uma casa na planta. Essa modalidade de compra consiste em adquirir um imóvel que ainda está em construção, o que permite uma série de vantagens para o comprador.\n\nÁrea de Terreno: 128m²\nÁrea Construída: 48,9m²\nNº de Quartos: 02 Quartos\nNº de Vagas: 02 Vagas na Garagem\n\nO Condomínio Villa Adágio, localizado no Araçagy, oferece um completo espaço de lazer para seus moradores, proporcionando momentos de diversão, relaxamento e bem-estar. Vamos explorar cada uma das áreas de lazer do Condomínio Villa Adágio:\n\nUm Espaço para Todos os Gostos:\n- Salão de Festas: Ideal para celebrar momentos especiais com amigos e familiares\n- Quiosque: Perfeito para um churrasco ou um encontro descontraído\n- Playground: Seguro e divertido para as crianças\n- Quadra Poliesportiva: Para prática de vôlei, basquete e futsal\n- Quadra Gramada: Espaço amplo para futebol e atividades ao ar livre\n- Área Fitness: Equipada com aparelhos modernos\n- Área Verde: Espaço tranquilo e arborizado\n\nBenefícios das Áreas de Lazer:\n- Qualidade de Vida\n- Convivência Social\n- Lazer e Diversão\n- Valorização do Imóvel\n\nAS MELHORES VANTAGENS PARA VOCÊ\nComprar uma casa na planta no Araçagy no O Condomínio Villa Adágio pode ser uma ótima escolha para quem busca um imóvel novo e personalizado, com diversas vantagens que tornam essa opção cada vez mais atraente.\n\nUma das principais vantagens é a possibilidade de personalização do imóvel. Ao adquirir uma casa que ainda está em construção, o comprador pode escolher acabamentos, cores, materiais e outros detalhes, de acordo com as suas preferências e necessidades.\n\nCom todas essas vantagens, comprar uma casa na planta no Araçagy no O Condomínio Villa Adágio pode ser a escolha certa para quem busca um imóvel novo, personalizado e com preços acessíveis. Não perca a oportunidade de realizar o sonho da casa própria em um dos bairros mais valorizados e cobiçados de São Luís."
+    },
+    {
       "id": "st-stevam-4",
       "type": "Casa",
       "title": "St. Stevam 4 - Dimensão Engenharia",

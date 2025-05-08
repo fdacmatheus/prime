@@ -21,23 +21,23 @@
       ]
     },
     {
-      "id": "st-stevam-4",
+      "id": "condominio-villa-adagio",
       "type": "Casa",
       "category": "venda",
       "naPlanta": true,
-      "title": "St. Stevam 4 - Dimensão Engenharia",
-      "location": "Laranjal, São Luís",
-      "area": "50.86",
+      "title": "Condomínio Villa Adágio",
+      "location": "Araçagy, São Luís",
+      "area": "48.9",
       "bedrooms": 2,
       "bathrooms": 1,
       "price": 210000,
-      "imageUrl": "/empreendimentos/st-stevam4/01.webp",
+      "imageUrl": "/empreendimentos/villa-adagio/01.webp",
       "images": [
-        "/empreendimentos/st-stevam4/01.webp",
-        "/empreendimentos/st-stevam4/02.webp",
-        "/empreendimentos/st-stevam4/03.webp",
-        "/empreendimentos/st-stevam4/04.webp",
-        "/empreendimentos/st-stevam4/05.webp"
+        "/empreendimentos/villa-adagio/01.webp",
+        "/empreendimentos/villa-adagio/02.webp",
+        "/empreendimentos/villa-adagio/03.webp",
+        "/empreendimentos/villa-adagio/04.webp",
+        "/empreendimentos/villa-adagio/05.webp"
       ]
     },
     {
@@ -78,26 +78,6 @@
         "/empreendimentos/condominio-beatriz/03.webp",
         "/empreendimentos/condominio-beatriz/04.webp",
         "/empreendimentos/condominio-beatriz/05.webp"
-      ]
-    },
-    {
-      "id": "oryon-dimensao",
-      "type": "Apartamento",
-      "category": "venda",
-      "naPlanta": true,
-      "title": "Oryon - Dimensão Engenharia",
-      "location": "Estrada da Maioba, Vila Maioba do Janipapeiro, São José de Ribamar",
-      "area": "56",
-      "bedrooms": 2,
-      "bathrooms": 1,
-      "price": 249000,
-      "imageUrl": "/empreendimentos/oryon/01.webp",
-      "images": [
-        "/empreendimentos/oryon/01.webp",
-        "/empreendimentos/oryon/02.webp",
-        "/empreendimentos/oryon/03.webp",
-        "/empreendimentos/oryon/04.webp",
-        "/empreendimentos/oryon/05.webp"
       ]
     }
   ]

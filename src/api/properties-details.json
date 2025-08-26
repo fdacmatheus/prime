@@ -1,23 +1,27 @@
 {
   "properties": [
     {
-      "id": "condominio-alvorada-2",
-      "type": "Apartamento",
-      "title": "Condomínio Alvorada II",
-      "location": "São Luis",
-      "areaTotal": "40 m²",
+      "id": "village-parque-ville",
+      "type": "Casa",
+      "title": "Village Parque Ville",
+      "location": "Rua Janguarana, S/N, São José De Ribamar - MA",
+      "areaTotal": "41.81 m²",
       "bedrooms": 2,
       "bathrooms": 1,
-      "price": 171000,
-      "pricePerSquareMeter": "4.275,00",
+      "garagens": 1,
+      "price": 203000,
+      "pricePerSquareMeter": "4.856,92",
+      "naPlanta": true,
+      "codigo": "CANOPUS",
+      "terreno": "148 m² a 257 m²",
       "images": [
-        "/empreendimentos/alvorada2/01.webp",
-        "/empreendimentos/alvorada2/02.webp",
-        "/empreendimentos/alvorada2/03.webp",
-        "/empreendimentos/alvorada2/04.webp",
-        "/empreendimentos/alvorada2/05.webp"
+        "/empreendimentos/parque-ville/01.webp",
+        "/empreendimentos/parque-ville/02.webp",
+        "/empreendimentos/parque-ville/03.webp",
+        "/empreendimentos/parque-ville/04.webp",
+        "/empreendimentos/parque-ville/05.webp"
       ],
-      "description": "Condomínio Alvorada II - Excelente oportunidade de investimento.\n\nApartamento com ótima localização em São Luis.\n\nProjeto moderno com acabamento de qualidade."
+      "description": "Village Parque Ville - Sua casa. Seu espaço. Seu futuro.\n\nUm condomínio de casas do programa Minha Casa Minha Vida da Canopus, pensado para transformar vidas e realizar sonhos. Localizado em São José de Ribamar, o empreendimento une tranquilidade, mobilidade e toda conveniência de uma região que cresce e valoriza a cada dia.\n\nCaracterísticas das Unidades:\n- Casas com 2 quartos\n- 1 banheiro social\n- Hall de entrada\n- Sala de estar/jantar\n- Cozinha\n- Área de serviço\n- Garagem para 1 veículo\n- Quintal privativo\n- Área privativa: 41,81m² ou 44,04m² (unidades adaptadas)\n- Terrenos variando de 148m² a 257m²\n\nLocalização Privilegiada:\n- 2 min de farmácias\n- 5 min de comércios e postos de gasolina\n- 6 min do IFMA\n- 9 min do Wang Park\n- Fácil acesso ao transporte público\n- Menos tempo no trânsito, mais momentos com quem importa\n\nLazer Completo - Um clube dentro de casa:\n- Piscinas adulto e infantil\n- Campo de futebol gramado\n- Quadra de beach tennis\n- Espaço fitness ao ar livre\n- Pista de cooper\n- Salão de festas com churrasqueira\n- Praça de piquenique\n- Praça com caramanchão e bancos\n- Mini market (espaço sugerido)\n- Playground\n- Brinquedoteca mobiliada\n- Sala de jogos mobiliada\n- Coworking\n- Espaço verde para horta comunitária\n- Pet place\n- Bicicletário\n- Redário\n\nInfraestrutura do Empreendimento:\n- 475 unidades habitacionais\n- Área total do terreno: 117.113,45m²\n- Guarita de segurança\n- Ruas asfaltadas\n- Estação de tratamento de esgoto\n- Área verde permanente\n- 37 vagas para visitantes (carros) + 11 vagas para motos\n\nVantagens do Minha Casa Minha Vida:\n- Juros reduzidos\n- Condições especiais de financiamento\n- Subsídios exclusivos do programa\n- Parceria Canopus e Caixa\n- Pagamento facilitado e sem complicações\n\nFaixas de Preços por Localização:\n- Unidades adaptadas (44,04m²): R$ 203.000 a R$ 218.000\n- Unidades padrão em lotes especiais: R$ 193.000 a R$ 202.000\n- Unidades padrão lotes padrão: R$ 204.000 a R$ 223.000\n- Unidades em lotes maiores: R$ 217.000 a R$ 250.000\n\nCanopus - 50 anos movidos pelo propósito de transformar vidas. Há meio século criando empreendimentos que transformam vidas, sempre em endereços pensados para o seu bem-estar. Um dos maiores grupos do Nordeste, com mais de 20 mil histórias construídas no Ceará, Maranhão, Piauí e Pará.\n\nVenha viver essa conquista com a gente!"
     },
     {
       "id": "condominio-villa-adagio",

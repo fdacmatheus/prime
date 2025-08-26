@@ -1,23 +1,23 @@
 {
   "properties": [
     {
-      "id": "condominio-alvorada-2",
-      "type": "Apartamento",
+      "id": "village-parque-ville",
+      "type": "Casa",
       "category": "venda",
-      "naPlanta": false,
-      "title": "Condomínio Alvorada II",
-      "location": "São Luis",
-      "area": "40",
+      "naPlanta": true,
+      "title": "Village Parque Ville",
+      "location": "Rua Janguarana, S/N, São José De Ribamar - MA",
+      "area": "41.81",
       "bedrooms": 2,
       "bathrooms": 1,
-      "price": 171000,
-      "imageUrl": "/empreendimentos/alvorada2/01.webp",
+      "price": 203000,
+      "imageUrl": "/empreendimentos/parque-ville/01.webp",
       "images": [
-        "/empreendimentos/alvorada2/01.webp",
-        "/empreendimentos/alvorada2/02.webp",
-        "/empreendimentos/alvorada2/03.webp",
-        "/empreendimentos/alvorada2/04.webp",
-        "/empreendimentos/alvorada2/05.webp"
+        "/empreendimentos/parque-ville/01.webp",
+        "/empreendimentos/parque-ville/02.webp",
+        "/empreendimentos/parque-ville/03.webp",
+        "/empreendimentos/parque-ville/04.webp",
+        "/empreendimentos/parque-ville/05.webp"
       ]
     },
     {
